@@ -1,0 +1,7 @@
+beautifulsoup4
+matplotlib
+openpyxl
+pandas
+python-nmap
+requests
+scapy

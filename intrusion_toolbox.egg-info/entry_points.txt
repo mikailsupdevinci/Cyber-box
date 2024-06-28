@@ -1,0 +1,3 @@
+[console_scripts]
+intrusion_toolbox = toolbox.main:main
+intrusion_toolbox_gui = toolbox.gui:main
